@@ -18,6 +18,7 @@ cd bot-chatgpt-whatsapp
 ```
 npm install
 ```
+4. Configure as variáveis no .env
 
 ## Utilização
 
